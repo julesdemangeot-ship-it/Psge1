@@ -10,10 +10,6 @@ def golden_ratio() -> float:
 
         φ = (1 + √5) / 2
 
-    Parameters
-    ----------
-    None
-
     Returns
     -------
     float
